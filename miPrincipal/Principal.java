@@ -13,7 +13,7 @@ public class Principal {
             System.out.println("*************************");
             System.out.println("1) LADRILLOS");
             System.out.println("2) Facotrial");
-            System.out.println("3) Numeros naturales");
+            System.out.println("3) NUMEROS NATURALES");
             System.out.println("4) Suma digitos");
             System.out.println("5) Recursividad indirecta");
             System.out.println("6) Maximo Comun divisor");
@@ -28,6 +28,9 @@ public class Principal {
                break;
             case 2:
                 AppFactorial.menu();
+                break;
+            case 3:
+                AppNaturales.menu();
                 break;
                
             case 0:
@@ -45,4 +48,5 @@ public class Principal {
 		
     }
 }
+
 
