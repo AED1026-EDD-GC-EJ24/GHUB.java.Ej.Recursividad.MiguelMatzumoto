@@ -32,6 +32,10 @@ public class Principal {
             case 3:
                 AppNaturales.menu();
                 break;
+
+            case 4:
+                AppSumaDigitos.menu();
+                break;
                
             case 0:
                System.out.println("ADIOS!");

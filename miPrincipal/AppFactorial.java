@@ -10,10 +10,10 @@ public class AppFactorial {
         factorialIte(f=5);
         //Version iterativa
         System.out.println("VERSION ITERATIVA");
-        System.out.println("Factorial de "+f+"! = "+factorialIte(f:5));
+        System.out.println("Factorial de "+f+"! = "+factorialIte(f=5));
         //Version recursiva
         System.out.println("VERSION RECURSIVA");
-        System.out.println("Factorial de "+f+"! = "+factorialRec(f:5));
+        System.out.println("Factorial de "+f+"! = "+factorialRec(f=5));
     }
 
     public static long factorialIte(int f){
