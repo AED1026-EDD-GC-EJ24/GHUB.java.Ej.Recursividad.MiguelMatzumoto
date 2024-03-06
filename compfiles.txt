@@ -1,6 +1,8 @@
 ./miPrincipal/Principal.java
+./miPrincipal/Alfabeto.java
 ./miPrincipal/AppLadrillos.java
 ./miPrincipal/AppSumaDigitos.java
 ./miPrincipal/AppFactorial.java
 ./miPrincipal/AppNaturales.java
+./miPrincipal/MaximoComunDivisor.java
 ./miTest/AppTest.java
